@@ -1,0 +1,30 @@
+{
+  "name": "learn-nextjs14",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kang-Dayeon/learn-nextJS14.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kang-Dayeon/learn-nextJS14/issues"
+  },
+  "homepage": "https://github.com/Kang-Dayeon/learn-nextJS14#readme",
+  "dependencies": {
+    "next": "^14.1.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "20.11.19",
+    "@types/react": "18.2.56",
+    "typescript": "5.3.3"
+  }
+}
