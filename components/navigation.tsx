@@ -1,4 +1,7 @@
 "use client"
+// 이 component는 client에서 interactive해야된다고 정하는것
+// 그렇다고 client에서 render되지는 않음. server에서 render됨
+// Hydration 된다라고 말함 = 단순 HTML을 React application으로 초기화 하는 작업
 
 import Link from "next/link";
 import {usePathname} from "next/navigation";
