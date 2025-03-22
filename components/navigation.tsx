@@ -4,6 +4,7 @@
 // Hydration 된다라고 말함 = 단순 HTML을 React application으로 초기화 하는 작업
 
 import Link from "next/link";
+// next에서 제공하는 hook으로 url을 읽을 수 있음
 import {usePathname} from "next/navigation";
 
 export default function Navigation(){
